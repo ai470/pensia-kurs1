@@ -1,0 +1,9 @@
+# Build-time only — never deploy to server
+_build/
+partials/
+part11/
+verify.html
+.claude/
+
+# Secrets
+**/figma_token*.txt
